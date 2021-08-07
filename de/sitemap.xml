@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://MarkusBarthlen.github.io/de/posts/books2020/</loc>
     <lastmod>2020-12-26T19:32:51+01:00</lastmod>
@@ -15,9 +14,7 @@
                 hreflang="de"
                 href="https://MarkusBarthlen.github.io/de/posts/books2020/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://MarkusBarthlen.github.io/de/</loc>
     <lastmod>2020-12-26T19:32:51+01:00</lastmod>
     <xhtml:link
@@ -30,9 +27,7 @@
                 hreflang="de"
                 href="https://MarkusBarthlen.github.io/de/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://MarkusBarthlen.github.io/de/posts/</loc>
     <lastmod>2020-12-26T19:32:51+01:00</lastmod>
     <xhtml:link
@@ -45,9 +40,7 @@
                 hreflang="de"
                 href="https://MarkusBarthlen.github.io/de/posts/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://MarkusBarthlen.github.io/de/tags/posts/</loc>
     <lastmod>2020-12-26T19:32:51+01:00</lastmod>
     <xhtml:link
@@ -60,9 +53,7 @@
                 hreflang="de"
                 href="https://MarkusBarthlen.github.io/de/tags/posts/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://MarkusBarthlen.github.io/de/tags/</loc>
     <lastmod>2020-12-26T19:32:51+01:00</lastmod>
     <xhtml:link
@@ -75,19 +66,13 @@
                 hreflang="de"
                 href="https://MarkusBarthlen.github.io/de/tags/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://MarkusBarthlen.github.io/de/datenschutzerklaerung/</loc>
     <lastmod>2020-12-01T21:05:01+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://MarkusBarthlen.github.io/de/impressum/</loc>
     <lastmod>2020-12-01T21:04:52+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://MarkusBarthlen.github.io/de/authors/</loc>
     <xhtml:link
                 rel="alternate"
@@ -99,9 +84,7 @@
                 hreflang="de"
                 href="https://MarkusBarthlen.github.io/de/authors/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://MarkusBarthlen.github.io/de/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -113,9 +96,7 @@
                 hreflang="de"
                 href="https://MarkusBarthlen.github.io/de/categories/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://MarkusBarthlen.github.io/de/series/</loc>
     <xhtml:link
                 rel="alternate"
@@ -128,5 +109,4 @@
                 href="https://MarkusBarthlen.github.io/de/series/"
                 />
   </url>
-  
 </urlset>

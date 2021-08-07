@@ -1,8 +1,62 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
+    <loc>https://MarkusBarthlen.github.io/</loc>
+    <lastmod>2021-08-07T11:14:51+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://MarkusBarthlen.github.io/de/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://MarkusBarthlen.github.io/"
+                />
+  </url><url>
+    <loc>https://MarkusBarthlen.github.io/posts/</loc>
+    <lastmod>2021-08-07T11:14:51+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://MarkusBarthlen.github.io/de/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://MarkusBarthlen.github.io/posts/"
+                />
+  </url><url>
+    <loc>https://MarkusBarthlen.github.io/tags/posts/</loc>
+    <lastmod>2021-08-07T11:14:51+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://MarkusBarthlen.github.io/de/tags/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://MarkusBarthlen.github.io/tags/posts/"
+                />
+  </url><url>
+    <loc>https://MarkusBarthlen.github.io/tags/</loc>
+    <lastmod>2021-08-07T11:14:51+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://MarkusBarthlen.github.io/de/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://MarkusBarthlen.github.io/tags/"
+                />
+  </url><url>
+    <loc>https://MarkusBarthlen.github.io/posts/control/</loc>
+    <lastmod>2021-08-07T11:14:51+02:00</lastmod>
+  </url><url>
     <loc>https://MarkusBarthlen.github.io/posts/books2020/</loc>
     <lastmod>2020-12-24T22:18:20+01:00</lastmod>
     <xhtml:link
@@ -15,74 +69,38 @@
                 hreflang="en"
                 href="https://MarkusBarthlen.github.io/posts/books2020/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://MarkusBarthlen.github.io/</loc>
-    <lastmod>2020-12-24T22:18:20+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://MarkusBarthlen.github.io/de/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://MarkusBarthlen.github.io/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://MarkusBarthlen.github.io/posts/</loc>
-    <lastmod>2020-12-24T22:18:20+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://MarkusBarthlen.github.io/de/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://MarkusBarthlen.github.io/posts/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://MarkusBarthlen.github.io/tags/posts/</loc>
-    <lastmod>2020-12-24T22:18:20+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://MarkusBarthlen.github.io/de/tags/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://MarkusBarthlen.github.io/tags/posts/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://MarkusBarthlen.github.io/tags/</loc>
-    <lastmod>2020-12-24T22:18:20+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://MarkusBarthlen.github.io/de/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://MarkusBarthlen.github.io/tags/"
-                />
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://MarkusBarthlen.github.io/posts/addictions/</loc>
+    <lastmod>2020-12-24T22:06:47+01:00</lastmod>
+  </url><url>
+    <loc>https://MarkusBarthlen.github.io/posts/oxygen/</loc>
+    <lastmod>2020-12-15T20:48:22+01:00</lastmod>
+  </url><url>
     <loc>https://MarkusBarthlen.github.io/about/</loc>
     <lastmod>2020-12-01T21:04:52+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://MarkusBarthlen.github.io/categories/</loc>
+    <lastmod>2020-12-01T20:46:33+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://MarkusBarthlen.github.io/de/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://MarkusBarthlen.github.io/categories/"
+                />
+  </url><url>
+    <loc>https://MarkusBarthlen.github.io/posts/fasting/</loc>
+    <lastmod>2020-12-01T20:46:33+01:00</lastmod>
+  </url><url>
+    <loc>https://MarkusBarthlen.github.io/tags/fasting/</loc>
+    <lastmod>2020-12-01T20:46:33+01:00</lastmod>
+  </url><url>
+    <loc>https://MarkusBarthlen.github.io/categories/posts/</loc>
+    <lastmod>2020-12-01T20:46:33+01:00</lastmod>
+  </url><url>
     <loc>https://MarkusBarthlen.github.io/authors/</loc>
     <xhtml:link
                 rel="alternate"
@@ -94,23 +112,7 @@
                 hreflang="en"
                 href="https://MarkusBarthlen.github.io/authors/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://MarkusBarthlen.github.io/categories/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://MarkusBarthlen.github.io/de/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://MarkusBarthlen.github.io/categories/"
-                />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://MarkusBarthlen.github.io/series/</loc>
     <xhtml:link
                 rel="alternate"
@@ -123,5 +125,4 @@
                 href="https://MarkusBarthlen.github.io/series/"
                 />
   </url>
-  
 </urlset>
