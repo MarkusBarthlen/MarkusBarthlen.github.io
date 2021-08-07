@@ -70,36 +70,8 @@
                 href="https://MarkusBarthlen.github.io/posts/books2020/"
                 />
   </url><url>
-    <loc>https://MarkusBarthlen.github.io/posts/addictions/</loc>
-    <lastmod>2020-12-24T22:06:47+01:00</lastmod>
-  </url><url>
-    <loc>https://MarkusBarthlen.github.io/posts/oxygen/</loc>
-    <lastmod>2020-12-15T20:48:22+01:00</lastmod>
-  </url><url>
     <loc>https://MarkusBarthlen.github.io/about/</loc>
     <lastmod>2020-12-01T21:04:52+01:00</lastmod>
-  </url><url>
-    <loc>https://MarkusBarthlen.github.io/categories/</loc>
-    <lastmod>2020-12-01T20:46:33+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://MarkusBarthlen.github.io/de/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://MarkusBarthlen.github.io/categories/"
-                />
-  </url><url>
-    <loc>https://MarkusBarthlen.github.io/posts/fasting/</loc>
-    <lastmod>2020-12-01T20:46:33+01:00</lastmod>
-  </url><url>
-    <loc>https://MarkusBarthlen.github.io/tags/fasting/</loc>
-    <lastmod>2020-12-01T20:46:33+01:00</lastmod>
-  </url><url>
-    <loc>https://MarkusBarthlen.github.io/categories/posts/</loc>
-    <lastmod>2020-12-01T20:46:33+01:00</lastmod>
   </url><url>
     <loc>https://MarkusBarthlen.github.io/authors/</loc>
     <xhtml:link
@@ -111,6 +83,18 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://MarkusBarthlen.github.io/authors/"
+                />
+  </url><url>
+    <loc>https://MarkusBarthlen.github.io/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://MarkusBarthlen.github.io/de/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://MarkusBarthlen.github.io/categories/"
                 />
   </url><url>
     <loc>https://MarkusBarthlen.github.io/series/</loc>
