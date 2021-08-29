@@ -6,16 +6,7 @@
     <description>Recent content on Markus Barthlen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 07 Aug 2021 11:14:51 +0200</lastBuildDate><atom:link href="https://MarkusBarthlen.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>The importance of practicing control of your life</title>
-      <link>https://MarkusBarthlen.github.io/posts/control/</link>
-      <pubDate>Sat, 07 Aug 2021 11:14:51 +0200</pubDate>
-      
-      <guid>https://MarkusBarthlen.github.io/posts/control/</guid>
-      <description>The importance of practicing control of your life You might have heard how important exercise is in order to stay healthy [1]. Or you might have heard that a regular sleep cycle [2] and regularity in your breakfast, lunch or dinner times can be beneficial. It has even been discovered that maintaining a &amp;ldquo;power pose&amp;rdquo; posture for 2-5 minutes can increase testosterone levels by 20% and decrease cortisol levels in your brain by 10-25% [3].</description>
-    </item>
-    
+    <lastBuildDate>Thu, 24 Dec 2020 22:18:20 +0100</lastBuildDate><atom:link href="https://MarkusBarthlen.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Best Books I read in 2020</title>
       <link>https://MarkusBarthlen.github.io/posts/books2020/</link>
@@ -32,10 +23,29 @@ Oxygen by Nick Lane  A tremendous book that will change your perspective on cell
       <pubDate>Tue, 01 Dec 2020 21:04:52 +0100</pubDate>
       
       <guid>https://MarkusBarthlen.github.io/about/</guid>
-      <description>This is the personal blog of Markus Barthlen.
+      <description>This is the blog of Markus Barthlen.
+Markus Barthlen
+Markenbildchenweg 23-25
+D-56068 Koblenz +49 1515 4168580
+VAT ID Germany: DE343647130 Please note that international consulting is not planned, but contact me if you are interested and we can work something out.
 Contact me at wichtig (at) barthlen.de
-or
-https://twitter.com/BarthlenMarkus/</description>
+Please note that electronic communication is not failsafe. If you want secure communication please use postal mail.
+The content of this internet presence has been curated carefully.</description>
+    </item>
+    
+    <item>
+      <title>Impressum</title>
+      <link>https://MarkusBarthlen.github.io/gdpr/</link>
+      <pubDate>Tue, 01 Dec 2020 21:04:52 +0100</pubDate>
+      
+      <guid>https://MarkusBarthlen.github.io/gdpr/</guid>
+      <description>Data protection I take the protection of personal data very seriously. Therefore, I keep confidentiality subject to German and EU law and to this declaration.
+General and required information Responsible for this website Responsible for this website is:
+Markus Barthlen
+Markenbildchenweg 23-25
+D-56068 Koblenz +49 1515 4168580
+wichtig (at) barthlen.de
+What are your rights? You have the right to get information about the data saved by me, to correct errors, to delete the data, to block the data from being processed and to oppose the processing of data.</description>
     </item>
     
   </channel>
