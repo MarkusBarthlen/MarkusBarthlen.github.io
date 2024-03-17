@@ -5,6 +5,7 @@
     <link>https://MarkusBarthlen.github.io/authors/</link>
     <description>Recent content in Authors on Markus Barthlen</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://MarkusBarthlen.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <atom:link href="https://MarkusBarthlen.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
